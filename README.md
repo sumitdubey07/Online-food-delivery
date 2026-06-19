@@ -39,25 +39,21 @@ The platform enhances traditional restaurant services by making the entire order
 ---
 ## Project Structure
 
-Frontend: Handles user interface and user interactions.
+- Frontend: Handles user interface and user interactions.
 
-Backend: Provides APIs, authentication, and business logic.
+- Backend: Provides APIs, authentication, and business logic.
 
-Database: Stores user, food, cart, and order information.
+- Database: Stores user, food, cart, and order information.
 
 ---
 
 ## Future Enhancements
 
-Online Payment Gateway Integration
-
-Order Tracking System
-
-Restaurant Management Features
-
-Recommendation System
-
-Our Future Application
+- Online Payment Gateway Integration
+- Order Tracking System
+- Restaurant Management Features
+- Recommendation System
+- Our Future Application
 
 ## 🧪 How to Run This Project in VS Code
 
