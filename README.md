@@ -50,9 +50,13 @@ Database: Stores user, food, cart, and order information.
 ## Future Enhancements
 
 Online Payment Gateway Integration
+
 Order Tracking System
+
 Restaurant Management Features
+
 Recommendation System
+
 Our Future Application
 
 ## 🧪 How to Run This Project in VS Code
