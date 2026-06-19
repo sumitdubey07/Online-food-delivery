@@ -1,6 +1,21 @@
 # 🍔 Online Food Delivery Website
 
 ---
+# 🌐 Live Demo
+- Customer Website
+
+🔗 Live Site:
+https://online-food-delivery-seven-gray.vercel.app/
+
+- Admin Panel
+
+🔗 Admin Dashboard:
+https://online-food-delivery-admin.vercel.app/
+
+- Backend API
+
+🔗 API Endpoint:
+https://online-food-delivery-ijyt.onrender.com
 
 ## 📖 Project Overview
 
