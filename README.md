@@ -39,19 +39,21 @@ The platform enhances traditional restaurant services by making the entire order
 ---
 ## Project Structure
 
-Frontend: Handles user interface and user interactions.
-Backend: Provides APIs, authentication, and business logic.
-Database: Stores user, food, cart, and order information.
+- Frontend: Handles user interface and user interactions.
+
+- Backend: Provides APIs, authentication, and business logic.
+
+- Database: Stores user, food, cart, and order information.
 
 ---
 
 ## Future Enhancements
 
-Online Payment Gateway Integration
-Order Tracking System
-Restaurant Management Features
-Recommendation System
-Our Future Application
+- Online Payment Gateway Integration
+- Order Tracking System
+- Restaurant Management Features
+- Recommendation System
+- Our Future Application
 
 ## 🧪 How to Run This Project in VS Code
 
@@ -111,7 +113,7 @@ One for the Admin Panel
 
 You're Good to gooooo 🚀
 ```
-## Author
+#### Author
 
 Built by **Sumit Dubey** -- Full-Stack Developer specializing in React, Node.js, MongoDB, and AI/ML solutions. Focused on creating modern, scalable applications with clean architecture and seamless user experiences.
 
