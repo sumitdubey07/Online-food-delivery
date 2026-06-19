@@ -40,7 +40,9 @@ The platform enhances traditional restaurant services by making the entire order
 ## Project Structure
 
 Frontend: Handles user interface and user interactions.
+
 Backend: Provides APIs, authentication, and business logic.
+
 Database: Stores user, food, cart, and order information.
 
 ---
